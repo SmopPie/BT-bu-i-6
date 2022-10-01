@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+*{
+    letter-spacing: 2.5px;
+}
+.apple_click{
+    margin-left: 250px;
+    margin-top: 80px;
+    height: 50px;
+    width: 200px;
+    outline: auto;
+    outline-color: black;
+    outline-width: 20px;
+    font-size: 30px;
+}
+.melon_click{
+    margin-left: 250px;
+    margin-top: 80px;
+    height: 50px;
+    width: 200px;
+    outline: auto;
+    outline-color: black;
+    outline-width: 20px;
+    font-size: 30px;
+}
+.snack_click{
+    margin-left: 250px;
+    margin-top: 80px;
+    height: 50px;
+    width: 200px;
+    outline: auto;
+    outline-color: black;
+    outline-width: 20px;
+    font-size: 30px;
+}
+.last_click{
+    margin-left: 250px;
+    margin-top: 80px;
+    height: 500px;
+    width: 1000px;
+    outline: auto;
+    outline-color: black;
+    outline-width: 20px;
+    font-size: 30px;
+}
