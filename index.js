@@ -12,6 +12,7 @@ function click_melon() {
     console.log(giohang)
 }
 function click_snack() {
-    giohang.melon +=1
+    giohang.snack +=1
     console.log(giohang)
 }
+console.log("hello")
